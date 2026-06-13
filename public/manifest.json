@@ -1,0 +1,27 @@
+{
+  "name": "QR Code Studio",
+  "short_name": "QR",
+  "description": "Create and scan QR codes. Analytics built-in.",
+  "start_url": "/qr-code-studio/",
+  "scope": "/qr-code-studio/",
+  "display": "standalone",
+  "background_color": "#080a08",
+  "theme_color": "#22c55e",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/qr-code-studio/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/qr-code-studio/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
